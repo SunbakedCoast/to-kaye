@@ -1,4 +1,0 @@
-1:"$Sreact.fragment"
-2:I[58193,["/SunbakedCoast/_next/static/chunks/eec38a2c84166b73.js"],"default"]
-3:I[18071,["/SunbakedCoast/_next/static/chunks/eec38a2c84166b73.js"],"default"]
-0:{"buildId":"Qk4t1Dv1BkGnltnQzp8Bi","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
