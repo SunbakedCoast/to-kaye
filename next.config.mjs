@@ -7,6 +7,7 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',  
+  assetPrefix: '/SunbakedCoast/',
 }
 
 export default nextConfig
