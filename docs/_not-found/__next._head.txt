@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[89146,["/_next/static/chunks/eec38a2c84166b73.js"],"ViewportBoundary"]
+4:I[89146,["/_next/static/chunks/eec38a2c84166b73.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[15587,["/_next/static/chunks/eec38a2c84166b73.js"],"IconMark"]
+0:{"buildId":"1fdr9cy9c7kPbe7B47LGW","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"To Kaye"}],["$","meta","1",{"name":"description","content":"Happy 1st Year"}],["$","meta","2",{"name":"generator","content":"v0.app"}],["$","link","3",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","4",{"rel":"apple-touch-icon","href":"/icon.svg"}],["$","$L7","5",{}]]
